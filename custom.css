@@ -4,3 +4,9 @@
     position: relative;
     /*top: -60px;*/
 }
+.izquierda {
+    float: left;
+}
+.derecha {
+    float: right;
+}

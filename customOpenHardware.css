@@ -2,11 +2,17 @@
     width: 300px;
     float: right;
     position: relative;
-    /*top: -60px;*/
+    padding: 5px;
 }
 .izquierda {
     float: left;
 }
 .derecha {
     float: right;
+}
+
+
+img.logo:hover {
+    background-color: #ecd9cd6b;
+    border-radius: 20px;
 }
